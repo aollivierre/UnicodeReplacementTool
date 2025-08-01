@@ -54,6 +54,17 @@ REPLACEMENTS = {
     '⏰': '[TIME]',
     '📅': '[CALENDAR]',
     
+    # Additional emoji found in SetupLab
+    '✅': '[DONE]',
+    '⏳': '[WAIT]',
+    '❌': '[ERROR]',
+    '🎉': '[CELEBRATE]',
+    '🔄': '[REFRESH]',
+    '🤖': '[BOT]',
+    '█': '[BLOCK]',
+    '\ufeff': '',  # BOM character - remove it
+    '\ufe0f': '',  # Variation selector - remove it
+    
     # Arrows
     '→': '->',
     '←': '<-',
