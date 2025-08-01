@@ -1,0 +1,17 @@
+[2025-08-01 08:39:11] [*70] =
+[2025-08-01 08:39:11] [INFO] Unicode Replacement Tool Started
+[2025-08-01 08:39:11] [*70] =
+[2025-08-01 08:39:11] [INFO] Path: C:\code\SetupLab
+[2025-08-01 08:39:11] [INFO] Preview Only: True
+[2025-08-01 08:39:11] [INFO] Recurse: True
+[2025-08-01 08:39:11] [INFO] No Backup: False
+[2025-08-01 08:39:11] [WARNING] 
+[PREVIEW MODE] No files will be modified
+[2025-08-01 08:39:11] [INFO] 
+Processing directory: C:\code\SetupLab
+[2025-08-01 08:39:14] [+] 
+
+[2025-08-01 08:39:14] [SUCCESS] PROCESSING COMPLETE
+[2025-08-01 08:39:14] [*70] =
+[2025-08-01 08:39:14] [ERROR] FATAL ERROR: The property "ReplacementCount" cannot be found in the input for any objects.
+[2025-08-01 08:39:14] [ERROR] 
