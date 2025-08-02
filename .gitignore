@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# Backups
+*.backup_*
+Backups/
+*_Backup_*/
+
+# Logs
+Logs/
+*.log
+
+# Test outputs
+TestEnvironment/TestResults/
+TestEnvironment/ComprehensiveTest/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+temp-*
+test-temp.*
+
+# Python installer
+python-installer.exe

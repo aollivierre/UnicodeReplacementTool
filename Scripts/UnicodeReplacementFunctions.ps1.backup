@@ -103,7 +103,7 @@ function Get-ReplacementText {
         return $ReplacementMap[$UnicodeChar]
     }
     
-    # If no specific replacement found, return generic ASCII placeholder
+    # If no specific replacement found, return generic placeholder
     $charCode = [int][char]$UnicodeChar
     return "[U+$($charCode.ToString('X4'))]"
 }

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(powershell:*)",
+      "Bash(cp:*)",
+      "Bash(python:*)",
+      "WebFetch(domain:www.python.org)",
+      "Bash(curl:*)",
+      "Bash(\"C:\\Program Files\\Python313\\python.exe\" \"C:\\code\\UnicodeReplacementTool\\TestEnvironment\\unicode_replacer.py\" \"C:\\code\\UnicodeReplacementTool\\TestEnvironment\\TestFiles\" --preview)",
+      "Bash(\"C:\\Program Files\\Python313\\python.exe\":*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh auth:*)",
+      "Bash(gh repo create:*)"
+    ],
+    "deny": []
+  }
+}
