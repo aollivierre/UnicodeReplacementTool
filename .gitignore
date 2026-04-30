@@ -40,3 +40,5 @@ test-temp.*
 
 # Python installer
 python-installer.exe
+# Claude Code per-machine settings
+.claude/settings.local.json
